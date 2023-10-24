@@ -1,2 +1,2 @@
 # cortexm-dma-programming
-ARM Cortex-M DMA Programming.
+Exploring ARM Cortex-M DMA Programming.
